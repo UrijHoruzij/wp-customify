@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BigArtWP-Customify\n"
+"POT-Creation-Date: 2019-08-19 18:10+0300\n"
+"PO-Revision-Date: 2019-08-19 18:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: Urij Horuzij\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: bigartwp-customify.php\n"
+"X-Poedit-SearchPath-2: customizer-register.php\n"
+
+#: customizer-register.php:12
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: customizer-register.php:31
+msgid "Headings"
+msgstr "Заголовки"
+
+#: customizer-register.php:41
+msgid "Body"
+msgstr "Основной"
+
+#: customizer-register.php:75
+msgid "Color 1"
+msgstr "Цвет 1"
+
+#: customizer-register.php:81
+msgid "Color 2"
+msgstr "Цвет 2"
+
+#: customizer-register.php:87
+msgid "Color 3"
+msgstr "Цвет 3"
+
+#: customizer-register.php:93
+msgid "Color 4"
+msgstr "Цвет 4"
+
+#: customizer-register.php:99
+msgid "Color 5"
+msgstr "Цвет 5"
+
+#: customizer-register.php:108
+msgid "Style Presets"
+msgstr "Наборы стилей"
+
+#: customizer-register.php:115 customizer-register.php:159
+msgid "France"
+msgstr "Франция"
+
+#: customizer-register.php:126
+msgid "Australia"
+msgstr "Австралия"
+
+#: customizer-register.php:137
+msgid "China"
+msgstr "Китай"
+
+#: customizer-register.php:148
+msgid "Italy"
+msgstr "Италия"
+
+#: customizer-register.php:170
+msgid "Russia"
+msgstr "Россия"
+
+#: customizer-register.php:181
+msgid "India"
+msgstr "Индия"
+
+#: customizer-register.php:192
+msgid "Great Britain"
+msgstr "Великобритания"
+
+#: includes/control-font-selector/class-font-selector.php:57
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/control-font-selector/class-font-selector.php:63
+msgid "Standard Fonts"
+msgstr "Стандартные шрифты"
+
+#: includes/control-font-selector/class-font-selector.php:79
+msgid "Google Fonts"
+msgstr "Google шрифты"
+
+#: includes/control-repeater/class-customizer-repeater.php:151
+msgid "Add new field"
+msgstr "Добавить новое поле"
+
+#: includes/control-repeater/class-customizer-repeater.php:156
+msgid "Customizer Repeater"
+msgstr "Повторитель в настройщике"
+
+#: includes/control-repeater/class-customizer-repeater.php:439
+#: includes/control-repeater/class-customizer-repeater.php:450
+#: includes/control-repeater/class-customizer-repeater.php:570
+#: includes/control-repeater/class-customizer-repeater.php:580
+msgid "Color"
+msgstr "Цвет"
+
+#: includes/control-repeater/class-customizer-repeater.php:460
+#: includes/control-repeater/class-customizer-repeater.php:590
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/control-repeater/class-customizer-repeater.php:469
+#: includes/control-repeater/class-customizer-repeater.php:599
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: includes/control-repeater/class-customizer-repeater.php:478
+#: includes/control-repeater/class-customizer-repeater.php:497
+#: includes/control-repeater/class-customizer-repeater.php:608
+#: includes/control-repeater/class-customizer-repeater.php:626
+msgid "Text"
+msgstr "Текст"
+
+#: includes/control-repeater/class-customizer-repeater.php:487
+#: includes/control-repeater/class-customizer-repeater.php:506
+#: includes/control-repeater/class-customizer-repeater.php:617
+#: includes/control-repeater/class-customizer-repeater.php:635
+#: includes/control-repeater/class-customizer-repeater.php:812
+#: includes/control-repeater/class-customizer-repeater.php:840
+msgid "Link"
+msgstr "Ссылка"
+
+#: includes/control-repeater/class-customizer-repeater.php:516
+#: includes/control-repeater/class-customizer-repeater.php:644
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: includes/control-repeater/class-customizer-repeater.php:541
+#: includes/control-repeater/class-customizer-repeater.php:656
+msgid "Delete field"
+msgstr "Удалить поле"
+
+#: includes/control-repeater/class-customizer-repeater.php:725
+#: includes/control-repeater/class-customizer-repeater.php:777
+msgid "Icon"
+msgstr "Иконка"
+
+#: includes/control-repeater/class-customizer-repeater.php:758
+#: includes/control-repeater/class-customizer-repeater.php:778
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/control-repeater/class-customizer-repeater.php:761
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: includes/control-repeater/class-customizer-repeater.php:774
+msgid "Image type"
+msgstr "Тип изображения"
+
+#: includes/control-repeater/class-customizer-repeater.php:779
+msgid "None"
+msgstr "Нет"
+
+#: includes/control-repeater/class-customizer-repeater.php:793
+msgid "Social icons"
+msgstr "Иконки социальных сетей"
+
+#: includes/control-repeater/class-customizer-repeater.php:815
+#: includes/control-repeater/class-customizer-repeater.php:853
+msgid "Remove Icon"
+msgstr "Удалить иконку"
+
+#: includes/control-repeater/class-customizer-repeater.php:820
+#: includes/control-repeater/class-customizer-repeater.php:860
+msgid "Add Icon"
+msgstr "Добавить иконку"

@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BigArtWP-Customify\n"
+"POT-Creation-Date: 2019-08-19 18:10+0300\n"
+"PO-Revision-Date: 2019-08-19 18:57+0300\n"
+"Language-Team: Urij Horuzij\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"Last-Translator: \n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: bigartwp-customify.php\n"
+"X-Poedit-SearchPath-2: customizer-register.php\n"
+
+#: customizer-register.php:12
+msgid "Fonts"
+msgstr "字体"
+
+#: customizer-register.php:31
+msgid "Headings"
+msgstr "标题"
+
+#: customizer-register.php:41
+msgid "Body"
+msgstr "身体"
+
+#: customizer-register.php:75
+msgid "Color 1"
+msgstr "颜色 1"
+
+#: customizer-register.php:81
+msgid "Color 2"
+msgstr "颜色 2"
+
+#: customizer-register.php:87
+msgid "Color 3"
+msgstr "颜色 3"
+
+#: customizer-register.php:93
+msgid "Color 4"
+msgstr "颜色 4"
+
+#: customizer-register.php:99
+msgid "Color 5"
+msgstr "颜色 5"
+
+#: customizer-register.php:108
+msgid "Style Presets"
+msgstr "样式预设"
+
+#: customizer-register.php:115 customizer-register.php:159
+msgid "France"
+msgstr "法国"
+
+#: customizer-register.php:126
+msgid "Australia"
+msgstr "澳大利亚"
+
+#: customizer-register.php:137
+msgid "China"
+msgstr "中国"
+
+#: customizer-register.php:148
+msgid "Italy"
+msgstr "意大利"
+
+#: customizer-register.php:170
+msgid "Russia"
+msgstr "俄罗斯"
+
+#: customizer-register.php:181
+msgid "India"
+msgstr "印度"
+
+#: customizer-register.php:192
+msgid "Great Britain"
+msgstr "大不列颠"
+
+#: includes/control-font-selector/class-font-selector.php:57
+msgid "Default"
+msgstr "默认值"
+
+#: includes/control-font-selector/class-font-selector.php:63
+msgid "Standard Fonts"
+msgstr "标准字体"
+
+#: includes/control-font-selector/class-font-selector.php:79
+msgid "Google Fonts"
+msgstr "谷歌字体"
+
+#: includes/control-repeater/class-customizer-repeater.php:151
+msgid "Add new field"
+msgstr "添加新字段"
+
+#: includes/control-repeater/class-customizer-repeater.php:156
+msgid "Customizer Repeater"
+msgstr "定制中继器"
+
+#: includes/control-repeater/class-customizer-repeater.php:439
+#: includes/control-repeater/class-customizer-repeater.php:450
+#: includes/control-repeater/class-customizer-repeater.php:570
+#: includes/control-repeater/class-customizer-repeater.php:580
+msgid "Color"
+msgstr "颜色"
+
+#: includes/control-repeater/class-customizer-repeater.php:460
+#: includes/control-repeater/class-customizer-repeater.php:590
+msgid "Title"
+msgstr "标题"
+
+#: includes/control-repeater/class-customizer-repeater.php:469
+#: includes/control-repeater/class-customizer-repeater.php:599
+msgid "Subtitle"
+msgstr "字幕"
+
+#: includes/control-repeater/class-customizer-repeater.php:478
+#: includes/control-repeater/class-customizer-repeater.php:497
+#: includes/control-repeater/class-customizer-repeater.php:608
+#: includes/control-repeater/class-customizer-repeater.php:626
+msgid "Text"
+msgstr "文本"
+
+#: includes/control-repeater/class-customizer-repeater.php:487
+#: includes/control-repeater/class-customizer-repeater.php:506
+#: includes/control-repeater/class-customizer-repeater.php:617
+#: includes/control-repeater/class-customizer-repeater.php:635
+#: includes/control-repeater/class-customizer-repeater.php:812
+#: includes/control-repeater/class-customizer-repeater.php:840
+msgid "Link"
+msgstr "链接"
+
+#: includes/control-repeater/class-customizer-repeater.php:516
+#: includes/control-repeater/class-customizer-repeater.php:644
+msgid "Shortcode"
+msgstr "简码"
+
+#: includes/control-repeater/class-customizer-repeater.php:541
+#: includes/control-repeater/class-customizer-repeater.php:656
+msgid "Delete field"
+msgstr "删除字段"
+
+#: includes/control-repeater/class-customizer-repeater.php:725
+#: includes/control-repeater/class-customizer-repeater.php:777
+msgid "Icon"
+msgstr "图标"
+
+#: includes/control-repeater/class-customizer-repeater.php:758
+#: includes/control-repeater/class-customizer-repeater.php:778
+msgid "Image"
+msgstr "图像"
+
+#: includes/control-repeater/class-customizer-repeater.php:761
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: includes/control-repeater/class-customizer-repeater.php:774
+msgid "Image type"
+msgstr "图像类型"
+
+#: includes/control-repeater/class-customizer-repeater.php:779
+msgid "None"
+msgstr "没有"
+
+#: includes/control-repeater/class-customizer-repeater.php:793
+msgid "Social icons"
+msgstr "社会图标"
+
+#: includes/control-repeater/class-customizer-repeater.php:815
+#: includes/control-repeater/class-customizer-repeater.php:853
+msgid "Remove Icon"
+msgstr "删除图标"
+
+#: includes/control-repeater/class-customizer-repeater.php:820
+#: includes/control-repeater/class-customizer-repeater.php:860
+msgid "Add Icon"
+msgstr "添加图标"

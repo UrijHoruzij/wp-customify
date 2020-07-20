@@ -1,0 +1,177 @@
+.presets .customize-inside-control-row {
+  position: relative;
+  width: 100% !important;
+  margin-left: 0 !important;
+  text-indent: 0 !important;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 64px;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+
+.presets .customize-inside-control-row:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  pointer-events: none;
+  -webkit-box-shadow: inset 0 0 3px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: inset 0 0 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+.presets .customize-inside-control-row:hover:before {
+  -webkit-box-shadow: inset 0 0 3px 0 rgba(0, 0, 0, 0.4);
+          box-shadow: inset 0 0 3px 0 rgba(0, 0, 0, 0.4);
+}
+
+.presets .customize-inside-control-row:hover .palette__item {
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+}
+
+.presets .customize-inside-control-row:hover label {
+  left: 10px;
+}
+
+.presets .customize-inside-control-row input {
+  opacity: 0;
+}
+
+.presets .customize-inside-control-row input:checked + label .preview__letter--checked {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.presets .customize-inside-control-row input:checked + label .preview__letter {
+  display: none;
+}
+
+.presets .customize-inside-control-row label {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  padding: 0 10px;
+  margin-top: 0 !important;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+
+.presets .customize-inside-control-row .palette {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+}
+
+.presets .customize-inside-control-row .palette__item {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+
+.presets .customize-inside-control-row .palette__item:nth-child(1) {
+  -webkit-transition-delay: 0s;
+          transition-delay: 0s;
+}
+
+.presets .customize-inside-control-row .palette__item:nth-child(2) {
+  -webkit-transition-delay: 0.05s;
+          transition-delay: 0.05s;
+}
+
+.presets .customize-inside-control-row .palette__item:nth-child(3) {
+  -webkit-transition-delay: 0.1s;
+          transition-delay: 0.1s;
+}
+
+.presets .customize-inside-control-row .palette__item:nth-child(4) {
+  -webkit-transition-delay: 0.15s;
+          transition-delay: 0.15s;
+}
+
+.presets .customize-inside-control-row .palette__item:nth-child(5) {
+  -webkit-transition-delay: 0.2s;
+          transition-delay: 0.2s;
+}
+
+.presets .customize-inside-control-row .palette__item:nth-child(6) {
+  -webkit-transition-delay: 0.25s;
+          transition-delay: 0.25s;
+}
+
+.presets .customize-inside-control-row .palette__item:nth-child(7) {
+  -webkit-transition-delay: 0.3s;
+          transition-delay: 0.3s;
+}
+
+.presets .customize-inside-control-row .palette__item:nth-child(8) {
+  -webkit-transition-delay: 0.35s;
+          transition-delay: 0.35s;
+}
+
+.presets .customize-inside-control-row .palette__item:nth-child(9) {
+  -webkit-transition-delay: 0.4s;
+          transition-delay: 0.4s;
+}
+
+.presets .customize-inside-control-row .palette__item:nth-child(10) {
+  -webkit-transition-delay: 0.45s;
+          transition-delay: 0.45s;
+}
+
+.presets .customize-inside-control-row .preview__letter,
+.presets .customize-inside-control-row .preview__letter--checked {
+  display: inline-block;
+  padding: 3px;
+  border-radius: 2px;
+  color: white;
+  margin-right: 5px;
+  min-height: 26px;
+  min-width: 26px;
+  text-align: center;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 15px 15px;
+  font-style: normal;
+  vertical-align: baseline;
+  font-size: 16px;
+}
+
+.presets .customize-inside-control-row .preview__letter--checked {
+  display: none;
+}
+
+.presets .label__inner {
+  color: #000000;
+  background: #F5F6F1;
+  padding: 7px 12px 7px 7px;
+  z-index: 2;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.presets .15);
+          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.presets .15);
+}
