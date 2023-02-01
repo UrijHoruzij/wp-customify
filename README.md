@@ -12,4 +12,4 @@ A Wordpress plugin that adds special options to the Customizer.
 
 ## License
 
-Wp-customify is released under the [MIT License](https://github.com/UrijHoruzij/wp-customify/blob/master/LICENSE).
+Wp-customify is released under the [GPL-2 License](https://github.com/UrijHoruzij/wp-customify/blob/master/LICENSE).
