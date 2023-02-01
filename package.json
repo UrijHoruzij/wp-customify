@@ -1,0 +1,15 @@
+{
+	"name": "wp-customify",
+	"version": "1.0.0",
+	"description": "A Wordpress plugin that adds special options to the Customizer.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/UrijHoruzij/bigartwp-customify.git"
+	},
+	"author": "Urij Horuzij",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/UrijHoruzij/bigartwp-customify/issues"
+	},
+	"homepage": "https://github.com/UrijHoruzij/bigartwp-customify#readme"
+}
